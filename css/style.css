@@ -1,3 +1,80 @@
+body{
+  font-family:cambria; 
+}
+
+header{
+  width: 900px;
+  margin:20px auto;
+}
+
+header section img{
+  float:left;
+}
+
+header ul{
+  float:right;
+  margin-top:-25px;
+}
+
+header li{
+  display: inline-block;
+}
+
+h1{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size:30px;
+}
+
+h2{
+  font-size:35px;
+  margin-left:45px;
+}
+
+h3{
+  font-size: 12px;
+  margin-bottom:20px;
+}
+
+h4{
+  font-size:10px;
+  margin-left:45px;
+}
+
+main{
+  margin: 30px auto;
+  width:900px;
+}
+
+main p{
+  text-indent: 1em;
+  margin-top: 20px;
+}
+
+.yumm {
+  font-family: 'Yellowtail', cursive; 
+}
+
+.slash {
+    width:900px;
+    overflow: hidden;
+    font-size: x-small;
+    text-indent: 0;
+    margin-top: 20px;
+    position: relative;
+    z-index: -1;
+}
+
+.upper {
+  font-family: Monaco,Eurostile, mono;
+}
+
+.lefty {
+  float:left;
+}
+
+.righty {
+  float:right;
+  
 /*list section*/
 .list
 {
