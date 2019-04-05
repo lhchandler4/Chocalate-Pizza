@@ -1,0 +1,19 @@
+/*list section*/
+
+.list
+{
+  background-image: url("../img/list-bg.png");
+}
+.list ul
+{
+  float: left;
+}
+
+/*vanessa section*/
+section
+{
+  width: 910px;
+  margin: 0px auto;
+}
+
+/*footer*/
